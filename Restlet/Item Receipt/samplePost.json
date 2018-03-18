@@ -1,0 +1,18 @@
+{
+    "po_id" : 123456, 
+    "trandate" : "16-02-2018",
+    "memo": "SAMPLE MEMO",
+    "driver" : "DRIVER NAME",
+    "shipment_date" : "16-02-2018",
+    "items":
+      [
+        {
+          "item_key" : "ITEM_NAME OR INTERNAL ID", 
+          "location_id": 5,
+          "qty": 1,
+          "assigned": [
+            { "lotnumber": "11123", "bin_id": 64, "expiration_date": "05-Mar-2018", "qty": 1  }
+          ] 
+        }
+      ]
+}

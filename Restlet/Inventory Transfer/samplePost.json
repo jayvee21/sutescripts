@@ -1,0 +1,16 @@
+{
+    "recordtype" : "inventorytransfer",
+    "from_location_id" : 5, 
+    "to_location_id" : 7,
+    "memo": "",
+    "inventory":
+      [
+        {
+          "item_ndc" : "10213", 
+          "qty": 3,
+          "bins": [
+            { "lot": 7008, "from": 64, "to": 20, "qty": 3  }
+          ] 
+        }
+      ]
+}
